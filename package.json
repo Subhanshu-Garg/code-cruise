@@ -1,7 +1,7 @@
 {
-  "name": "express-typescript-clean-architecture",
+  "name": "code-cruise",
   "version": "1.0.0",
-  "description": "Clean Architecture Express TypeScript Boilerplate",
+  "description": "A robust and scalable Express.js boilerplate with TypeScript, following clean architecture principles and best practices for building production-ready REST APIs.",
   "main": "dist/index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts",

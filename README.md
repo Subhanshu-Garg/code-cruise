@@ -1,4 +1,4 @@
-# Express TypeScript Clean Architecture Boilerplate
+# Code Cruise
 
 A robust and scalable Express.js boilerplate with TypeScript, following clean architecture principles and best practices for building production-ready REST APIs.
 
@@ -43,7 +43,7 @@ src/
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/express-typescript-clean-architecture.git
+git clone https://github.com/Subhanshu-Garg/code-cruise.git
 \`\`\`
 
 2. Install dependencies:
